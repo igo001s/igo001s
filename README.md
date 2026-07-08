@@ -76,7 +76,7 @@
 <br/>
 
 <div align="center">
-  <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stwsz&theme=tokyonight" />
+  <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igo001s&theme=tokyonight" />
 </div>
 
 <br/>
@@ -84,16 +84,16 @@
 <br/>
 
 <p align="center">
-  <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stwsz&theme=tokyonight" />
+  <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=igo001s&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;
-  <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stwsz&theme=tokyonight&utcOffset=-3" />
+  <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=igo001s&theme=tokyonight&utcOffset=-3" />
 </p>
 
 <br/>
 
 <div align="center">
   <strong>Contact me</strong><br/><br/>
-  <a href="https://www.linkedin.com/in/igoraraujo01-dev/">
+  <a href="https://www.linkedin.com/in/igor-araujo001/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
